@@ -10,4 +10,4 @@ public class App75 {
     System.out.println("Có tất cả " + HinhHoc.dem + " hình trong ứng dụng");
   }
 }
-© 2022 Gi
+
